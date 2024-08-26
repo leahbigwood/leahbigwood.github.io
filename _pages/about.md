@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leah Bigwood - PhD student at the Insitute of Astronomy, University of Cambridge."
+title: "Leah Bigwood"
 author_profile: true
 redirect_from: 
   - /about/
