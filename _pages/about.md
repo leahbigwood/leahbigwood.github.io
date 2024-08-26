@@ -10,7 +10,7 @@ redirect_from:
 I am a third year PhD student in Astronomy based at the Institute of Astronomy, University of Cambridge (and sometimes found at Peyton Hall, Princeton University).  I enjoy working at the intersection between astrophysics and cosmology: learning how to disentangle the impact of galaxy formation physics on our measurements of cosmology, and therefore getting us closer to truly understanding the Universe's evolution and its contents.  
 
 My research
-======
+----
 
 My PhD research thus far has focused on 'baryonic feedback'.  Baryonic feedback encompasses the physical processes associated with baryons, which can cool and heat gas, and redistribute the total matter in the Universe.  The dominant baryonic feedback process is feedback from Active Galactic Nuclei (AGN).  It is believed that AGN have the power to eject baryons beyond the virial radius of galaxies to the outskirts of groups and clusters, therefore significantly impacting the Universe's small-scale matter distribution.  In order to extract unbiased cosmology from observables such as weak galaxy lensing, we need to accurately model the Universe's matter distribution.  The impact of baryonic feedback effects to redistribute the small-scale matter in the Universe however remains largely unknown, with simulations making wildly varying predictions on the amplitude of the effect. 
 
