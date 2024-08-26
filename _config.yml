@@ -24,9 +24,9 @@ author:
   avatar           : "Screenshot 2024-08-26 at 09.51.39.png"
   name             : "Leah Bigwood"
   pronouns         : # example: "she/her"  
-  bio              : "Cosmology & Astrophysics PhD student"
+  bio              : "Cosmology & Astrophysics PhD student at the Institute of Astronomy, University of Cambridge."
   location         : "Cambridge, UK"
-  employer         : "Institute of Astronomy, University of Cambridge"
+  employer         : #"Institute of Astronomy, University of Cambridge"
   uri              : # URL
   email            : "lmb224@cam.ac.uk" 
 
