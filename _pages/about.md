@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in Astronomy based at the Institute of Astronomy, University of Cambridge (and sometimes found at Peyton Hall, Princeton University).  I enjoy working at the intersection between astrophysics and cosmology: learning how to disentangle the impact of galaxy formation physics on our measurements of cosmology, and therefore getting us closer to truly understanding the Universe's evolution and its contents.  
+About
+---
+
+I'm Leah Bigwood, a third year PhD student in Astronomy based at the Institute of Astronomy, University of Cambridge (and sometimes found at Peyton Hall, Princeton University).  I enjoy working at the intersection between astrophysics and cosmology: learning how to disentangle the impact of galaxy formation physics on our measurements of cosmology, and therefore getting us closer to truly understanding the Universe's evolution and its contents.  
+
+I graduated from Durham University in the UK in 2022 with First Class Honours in MPhys: Physics and Astronomy.  There I was fortunate to win a number of awards; including the D. A. Wright Prize for outstanding perfomance by a Final Honours candidate, the Durham Physics Award for Outstanding Achievement, and the Level 4 Prize for Theoretical Astrophysics.  In addition to my Master's thesis within the Dark Energy Spectroscopic Instrument (DESI) Bright Galaxy Survey, I won funding to undertake a number of projects supervised by researchers at other institions.  This included my work 'Evidence for Episodic Black Hole Growth of Reionization-Era Quasars observed with Magellan/FIRE', which was carried out in collaboration with Anna-Christina Eilers at the Massachusetts Institute of Technology.  In 2022 I began my PhD at the Institute of Astronomy, University of Cambridge, where I am supervised by Prof. Alexandra Amon and Prof. Debora Sijacki.  In 2023 Alexandra became an Assistant Professor at Princeton University, so I have been lucky to spend some extended visits at Peyton Hall in Princeton.  
 
 My research
 ----
@@ -26,4 +31,10 @@ I enjoy working directly with observational data, and recently co-led a joint [D
 
 I also work with hydrodynamical simulations, to understand the degeneracies which result in differing predictions of the extremity of baryonic feedback.  I am currently working on a modified AGN feedback model in the FABLE simulation suite, labelled XFABLE.  XFABLE is able to predict feedback of greater extremity than fiducial FABLE, providing a hint that feedback could indeed have the potential to bias our current weak lensing cosmology and be responsible for the S8 Tension. 
 
+Contact me
+---
+
+I am always very enthusiastic to hear from anyone interested in my science, whether that is relating to an outreach opportunity or a potential collaboration!  Please get in touch via: 
+
+email: lmb224@cam.ac.uk
 
