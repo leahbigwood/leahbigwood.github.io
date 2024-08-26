@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 
 I'm Leah Bigwood, a third year PhD student in Astronomy based at the Institute of Astronomy, University of Cambridge (and sometimes also found at Peyton Hall, Princeton University!).  I enjoy working at the intersection between astrophysics and cosmology: learning how to disentangle the impact of galaxy formation physics on our measurements of cosmology.  Ultimately this will get us closer to cosmology's goal; truly understanding the Universe's evolution and its contents.  
 
