@@ -8,7 +8,7 @@ date: 2024-04-09
 venue: 'WL + kSZ'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/2404.06098v1.pdf'
-citation: 'Bigwood, L. & Amon, A. et al. (2024). &quot;Weak lensing combined with the kinetic Sunyaev Zel'dovich effect: A study of baryonic feedback.&quot; <i>	arXiv:2404.06098</i>. 1(1).'
+citation: 'Bigwood, L. & Amon, A. et al. (2024). &quot;Weak lensing combined with the kinetic Sunyaev Zeldovich effect: A study of baryonic feedback.&quot; <i>	arXiv:2404.06098</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
