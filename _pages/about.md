@@ -30,6 +30,8 @@ I enjoy working directly with observational data, and recently co-led a joint [D
 
 3.  Can we use weak lensing + kSZ as a new benchmark for hydrosimulations: do we have a consistent picture of feedback effects?
 
+![alt text](http://leahbigwood.github.io/files/website-plot1.png "WL+kSZ")
+
 I also work with hydrodynamical simulations, to understand the degeneracies which result in differing predictions of the extremity of baryonic feedback.  I am currently working on a modified AGN feedback model in the FABLE simulation suite, labelled XFABLE.  XFABLE is able to predict feedback of greater extremity than fiducial FABLE, providing a hint that feedback could indeed have the potential to bias our current weak lensing cosmology and be responsible for the S8 Tension. 
 
 Contact me
