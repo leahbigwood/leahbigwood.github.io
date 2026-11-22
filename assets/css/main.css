@@ -2599,6 +2599,7 @@ input, select, textarea {
 		background-size: auto,								cover;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100vh;
+		box-sizing: border-box;
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
